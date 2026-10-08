@@ -1,0 +1,45 @@
+SOURCE-REVIEW SCOPE
+Source-review companion v0.3.1
+
+Purpose
+Inspect implementation source and run the documented wholly invented offline
+engineering checks. Sharing this companion does not require presenting it as
+a completed clinical reproduction package.
+
+Identity and materials
+The companion is author-identified, with Yi Liu and Qian Sun named in the
+copyright and contributor attribution. It is not a double-blind artifact.
+It contains source, interface/assembly specifications, licence/dependency
+notices and invented tests. It does not include patients or patient-level data,
+individual predictions, fitted models, learned preprocessing constants, real
+clinical mappings, numerical study results, manuscript tables or figures,
+credentials, private run logs or internal audit records.
+
+Permitted software capabilities are not clinical authorization
+The documented review entrypoint only checks the local file inventory or
+prints a static plan. Clinical execution is unsupported and is not authorized
+by this companion. Do not source the historical training script, concatenate
+or run the SQL, or supply real clinical paths merely to inspect the package.
+Software licensing does not grant database or clinical-data access.
+
+Required limitations
+The actual frozen mapping is absent; its schema cannot establish equivalent
+clinical content. Complete portable permission/snapshot/transaction wrappers,
+capture/rollback/cleanup controls, PRIMARY-specific endpoint assembly and
+stage20 input/model orchestration are not provided as a supported complete
+runner. Historical environment identity and end-to-end equivalence are not
+verified. Existing configurable root and role fields do not confer authority.
+
+Artificial-test and integrity-check success establishes only the tested
+engineering properties. It does not reproduce manuscript results, establish
+scientific validity, or show that a historical analysis ran as intended.
+Skipped platform-specific checks must be reported as skipped.
+
+Distribution and licence
+The package itself asserts no operational reviewer URL, published repository
+or archive DOI. Verify current availability at the actual hosting service.
+The original-project MIT text is unchanged. This scope description is not an
+additional confidentiality or review-only restriction on the software licence.
+Third-party dependencies and excluded data/model materials are not relicensed.
+The offline engineering, tests and documentation were prepared with AI
+assistance; authors remain responsible for final review and release.
